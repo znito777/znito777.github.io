@@ -11,7 +11,9 @@ Html을 활용하여 Naver Page 구현
 <h2> Html 코드 </h2>   
 
 <p align="center">
-  https://gist.github.com/znito777/0c3011ff1c12ad1c5233b7113598cfb3
+  <a href="https://gist.github.com/znito777/0c3011ff1c12ad1c5233b7113598cfb3.js">
+   블로그 링크
+</a>
   </p>
    
    
