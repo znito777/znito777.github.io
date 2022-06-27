@@ -3,7 +3,7 @@ layout: post
 title:  "JavaScript 미니 프로젝트 - Typing Landing Page"
 ---
 
-<div align="center"><h1> "프로젝트 명 : "JavaScript Typing Landing Page" </h1>   
+<div align="center"><h1> 프로젝트 명 : "JavaScript Typing Landing Page" </h1>   
    
 <h2> 프로젝트 목표 </h2>   
 타이핑 효과를 사용하는 랜딩 페이지
