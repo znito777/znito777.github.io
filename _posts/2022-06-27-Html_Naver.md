@@ -19,4 +19,5 @@ Html을 활용하여 Naver Page 구현
    
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97649924/175913801-f646f3ea-1bc5-4c8c-b0c7-5c2d5fdb2680.gif" width="80%" height="80%"/>
+  </p>
 </div>
