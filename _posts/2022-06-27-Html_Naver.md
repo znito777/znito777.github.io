@@ -11,7 +11,7 @@ Html을 활용하여 Naver Page 구현
 <h2> Html 코드 </h2>   
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97649924/175931121-e63c2378-822a-4c0b-8afb-ac16d6b519bf.png" width="300" height="300">
+  <img src="https://user-images.githubusercontent.com/97649924/175931121-e63c2378-822a-4c0b-8afb-ac16d6b519bf.png" width="80%" height="80%">
   </p>
    
    
