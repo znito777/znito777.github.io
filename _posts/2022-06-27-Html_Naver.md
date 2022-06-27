@@ -11,7 +11,7 @@ Html을 활용하여 Naver Page 구현
 <h2> Html 코드 </h2>   
 
 <p align="center">
-  <script src="https://gist.github.com/znito777/0c3011ff1c12ad1c5233b7113598cfb3.js"></script>
+  <img src="https://user-images.githubusercontent.com/97649924/175931121-e63c2378-822a-4c0b-8afb-ac16d6b519bf.png">
   </p>
    
    
