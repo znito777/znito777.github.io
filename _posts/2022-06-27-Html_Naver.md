@@ -3,7 +3,7 @@ layout: post
 title:  "Html 미니 프로젝트 - Naver Page"
 ---
    
-<div align="center"><h1> "프로젝트 명 : "Html을 활용한 Naver Page" </h1>   
+<div align="center"><h1> 프로젝트 명 : "Html을 활용한 Naver Page" </h1>   
     
 <h2> 프로젝트 목표 </h2>   
 Html을 활용하여 Naver Page 구현      
